@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **I am interested in Politics and Astrophysics**
 
+- More projects are on their way...
+  
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
