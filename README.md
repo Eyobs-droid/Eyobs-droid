@@ -11,15 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 💬 Ask me about **AI/ML**
-
-- 📫 How to reach me **berhanueyob06@gmail.com is my email address or use the telegram link**
-
-- ⚡ Fun fact **I am interested in Politics and Astrophysics**
-
-- More projects are on their way...
   
 
 ### Blogs posts
