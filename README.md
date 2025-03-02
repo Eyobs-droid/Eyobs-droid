@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyobs-droid&label=Profile%20views&color=0e75b6&style=flat" alt="eyobs-droid" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma"><img src="https://github-profile-trophy.vercel.app/?username=eyobs-droid" alt="eyobs-droid" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=eyobs-droid&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
