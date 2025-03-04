@@ -1,5 +1,5 @@
 ![Headmaster](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
-<h1 align="center">Hi 👋, I'm Eyob Berhanu</h1>
+<h1 align="center">Hi 👋, I'm Eyob</h1>
 <h3 align="center"> An AI/ML Engineer and Game Design Enthusiast from Ethiopia</h3>
 <img align = "center"  width = 400 src = "https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
